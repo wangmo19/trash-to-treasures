@@ -1,0 +1,28 @@
+p{
+  color: #black;
+}
+
+h1{
+   color: brown;
+   font-family:inherit;
+   font-size:40px
+}
+h2{
+  color:pink;
+  font-family:monospace;
+  font-size:30px;
+}
+ h3{
+   color: blue;
+   font-family: cursive;
+   font-size:20px
+ }
+
+
+.img-charity{
+  width:300px;
+  background-color:brown;
+}
+.img-clean{
+  width:400px;
+}
